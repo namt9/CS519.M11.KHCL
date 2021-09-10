@@ -1,1 +1,14 @@
 # CS519.M11.KHCL
+# THÀNH VIÊN TRONG NHÓM:
+| STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
+| ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
+| 1      | 19521874      | Trịnh Tuấn Nam         |Nhóm trưởng|[namt9](https://github.com/namt9)                       |19521874@gm.uit.edu.vn   |
+| 2      | 19521464      | Nguyễn Quan Hiếu       |Thành viên |[iamthedh7](https://github.com/hieu28022000)             |19521464@gm.uit.edu.vn   |
+| 3      | 19521324      | Phan Thành Nhân        |Thành viên |                                                         |19521324@gm.uit.edu.vn   |
+
+# GIỚI THIỆU MÔN HỌC
+* **Tên môn học:** Phương pháp luận nghiên cứu khoa học
+* **Mã môn học:** CS519
+* **Mã lớp:** CS519.M11.KHCL
+* **Năm học:** HK1 (2021 - 2022)
+* **Giảng viên**: Lê Đình Duy
